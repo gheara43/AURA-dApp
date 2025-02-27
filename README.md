@@ -18,7 +18,7 @@ AURA is a decentralized application (dApp) built on the Andromeda Protocol that 
 - **Modular Architecture**: Easy to extend and integrate additional features in the future.
 
 ## Embeddable Demo
-Experience AURA in action! Check out our [Live Demo](#) for a hands-on demonstration of the dApp.
+Experience AURA in action! Check out the [Live Demo](https://aura-d-app.vercel.app/) for a hands-on demonstration of the dApp.
 
 ## Future Scope
 - **Expanded Exchange Options**: Introducing additional trading pairs and liquidity pools.
@@ -29,4 +29,4 @@ Experience AURA in action! Check out our [Live Demo](#) for a hands-on demonstra
 
 ---
 
-*For more details, feel free to explore the repository and contribute to the project. Happy swapping!*
+*For more details, feel free to explore the repository and contribute to the project. Happy brainrot!*
